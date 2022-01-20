@@ -1,2 +1,4 @@
 # BookShelf
- Online Booke Review App with Volley
+ Online Book Review App with Volley
+ 
+ Contains examples of using Databinding, MVVM architecture
