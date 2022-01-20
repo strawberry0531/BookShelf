@@ -140,7 +140,7 @@ class DashboardFragment : Fragment() {
                     override fun getHeaders(): MutableMap<String, String> {
                         val headers = HashMap<String, String>()
                         headers["Content-type"] = "application/json"
-                        headers["token"] = "74302f68224d72"
+                        headers["token"] = "****" //will be given by beackend developer
                         return headers
                     }
                 }
