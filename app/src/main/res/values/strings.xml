@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="dashboard">Discover</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="about_fragment">About Fragment</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_price">Book Price</string>
+    <string name="rating">Rating</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="remove_favourites">Remove from Favourites</string>
+    <string name="sort_rating">Ratings</string>
+    <string name="sort_by_name">Book Name</string>
+    <string name="sort_by_author">Author</string>
+    <string name="sort_by_cost">Price</string>
+
+</resources>
